@@ -1,0 +1,3985 @@
+<?xml version="1.0" standalone="yes"?>
+<Templates>
+  <SubjectTemplate>
+    <Name>BPX DH</Name>
+    <DataSource>Client</DataSource>
+    <Separator xml:space="preserve"> </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH</Name>
+    <DataSource>Well_Name</DataSource>
+    <Separator> Survey Depth </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH</Name>
+    <DataSource>Survey_MD</DataSource>
+    <Separator> INC </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH</Name>
+    <DataSource>Survey_Inc</DataSource>
+    <Separator> AZM </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH</Name>
+    <DataSource>Survey_Azm</DataSource>
+    <Separator> TVD </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH</Name>
+    <DataSource>Survey_TVD</DataSource>
+    <Separator> VS </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH</Name>
+    <DataSource>Survey_VS</DataSource>
+    <Separator> DLS </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH</Name>
+    <DataSource>Survey_DLS</DataSource>
+    <Separator> MY </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH</Name>
+    <DataSource>Motor_Yield</DataSource>
+    <Separator> DLN </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH</Name>
+    <DataSource>DLS_Needed</DataSource>
+    <Separator />
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH Lateral</Name>
+    <DataSource>Client</DataSource>
+    <Separator xml:space="preserve"> </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH Lateral</Name>
+    <DataSource>Well_Name</DataSource>
+    <Separator> Survey Depth</Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH Lateral</Name>
+    <DataSource>Survey_MD</DataSource>
+    <Separator> INC </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH Lateral</Name>
+    <DataSource>Survey_Inc</DataSource>
+    <Separator> AZM </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH Lateral</Name>
+    <DataSource>Survey_Azm</DataSource>
+    <Separator> TVD </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH Lateral</Name>
+    <DataSource>Survey_TVD</DataSource>
+    <Separator> VS </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH Lateral</Name>
+    <DataSource>Survey_VS</DataSource>
+    <Separator> DLS </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX DH Lateral</Name>
+    <DataSource>Survey_DLS</DataSource>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Template</Name>
+    <DataSource>Client</DataSource>
+    <Separator xml:space="preserve"> </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Template</Name>
+    <DataSource>Well_Name</DataSource>
+    <Separator> Survey Depth</Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Template</Name>
+    <DataSource>Survey_MD</DataSource>
+    <Separator> INC </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Template</Name>
+    <DataSource>Survey_Inc</DataSource>
+    <Separator> AZM </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Template</Name>
+    <DataSource>Survey_Azm</DataSource>
+    <Separator> TVD </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Template</Name>
+    <DataSource>Survey_TVD</DataSource>
+    <Separator> VS </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Template</Name>
+    <DataSource>Survey_VS</DataSource>
+    <Separator> DLS </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Template</Name>
+    <DataSource>Survey_DLS</DataSource>
+    <Separator />
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX Lateral</Name>
+    <DataSource>Client</DataSource>
+    <Separator> /</Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX Lateral</Name>
+    <DataSource>Well_Name</DataSource>
+    <Separator> / </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX Lateral</Name>
+    <DataSource>Rig</DataSource>
+    <Separator> / Survey MD:</Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX Lateral</Name>
+    <DataSource>Survey_MD</DataSource>
+    <Separator> ft / TVD:</Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX Lateral</Name>
+    <DataSource>Survey_TVD</DataSource>
+    <Separator> ft / INC:</Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX Lateral</Name>
+    <DataSource>Survey_Inc</DataSource>
+    <Separator>° / AZM:</Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX Lateral</Name>
+    <DataSource>Survey_Azm</DataSource>
+    <Separator>° / VS:</Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX Lateral</Name>
+    <DataSource>Survey_VS</DataSource>
+    <Separator> ft / N/S:</Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX Lateral</Name>
+    <DataSource>Survey_North</DataSource>
+    <Separator> ft / E/W:</Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX Lateral</Name>
+    <DataSource>Survey_East</DataSource>
+    <Separator> ft / DLS:</Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX Lateral</Name>
+    <DataSource>Survey_DLS</DataSource>
+    <Separator>°/100' / MWD Temp:</Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>BPX Lateral</Name>
+    <DataSource>Survey_Temp</DataSource>
+    <Separator>° F</Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <DataSource>Client</DataSource>
+    <Separator xml:space="preserve"> </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <DataSource>Well_Name</DataSource>
+    <Separator> Survey Depth</Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <DataSource>Survey_MD</DataSource>
+    <Separator> INC </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <DataSource>Survey_Inc</DataSource>
+    <Separator> AZM </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <DataSource>Survey_Azm</DataSource>
+    <Separator> TVD </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <DataSource>Survey_TVD</DataSource>
+    <Separator> VS </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <DataSource>Survey_VS</DataSource>
+    <Separator> DLS </Separator>
+  </SubjectTemplate>
+  <SubjectTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <DataSource>Survey_DLS</DataSource>
+    <Separator />
+  </SubjectTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader />
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>10</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Comments</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>10</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-5645678</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Job_Number</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Well_Name</DataSource>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Client</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Rig</DataSource>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>County</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>    CURRENT SURVEY:     </LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>6</Spacing>
+    <DataSource />
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>10</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>true</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-8355840</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>MD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_MD</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>INC:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_Inc</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>AZM:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_Azm</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>TVD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_TVD</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>VS:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_VS</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>DLS:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_DLS</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-4599815</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>N/S:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_North</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>E/W:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_East</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-5444928</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>Surv A/B</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_A/B_Plan</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-4138498</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>Surv R/L</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>true</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_R/L_Plan</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-65408</DataSourceFontColor>
+    <DataSourceUnderlined>true</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>true</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>Gamma:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>true</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Gamma</DataSource>
+    <Unit>' AAPI</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-65408</DataSourceFontColor>
+    <DataSourceUnderlined>true</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>true</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>Temp:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_Temp</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>Testing</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-8355585</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>true</LineHeaderItalic>
+    <Spacing>5</Spacing>
+    <DataSource>County</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16711872</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>3</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>MD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_MD</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>PROJECTION TO BIT:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource />
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>true</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>INC:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_Inc</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>AZM:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_Azm</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>TVD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_TVD</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>VS:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_VS</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>MY:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Motor_Yield</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>DLN:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>DLS_Needed</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>' Projection:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16776961</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>true</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Beyond_Bit_Header</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>MD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Beyond_Bit_MD</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-12550016</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>INC:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Beyond_Bit_Inc</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>AZM:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Beyond_Bit_Azm</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>TVD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Beyond_Bit_TVD</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>DEVIATION FROM PLAN LINE:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource />
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>Above/Below:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_A/B_Plan</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>Left/Right:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_R/L_Plan</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>ROP Sliding:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>ROP_Sliding</DataSource>
+    <Unit>' ft/hr</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>ROP Rotating:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>ROP_Rotating</DataSource>
+    <Unit>' ft/hr</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH</Name>
+    <LineHeader>Comment:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16776961</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>10</Spacing>
+    <DataSource>Comments</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>10</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-4138498</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader />
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Job_Number</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader />
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Client</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader />
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Well_Name</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader />
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Rig</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader />
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>County</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>CURRENT SURVEY:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>6</Spacing>
+    <DataSource />
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>10</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>MD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_MD</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>INC:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_Inc</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>AZM:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_Azm</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>TVD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_TVD</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>VS:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_VS</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>DLS:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_DLS</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>N/S:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_North</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>E/W:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_East</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>Gamma:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Gamma</DataSource>
+    <Unit>  AAPI</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>Temp:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_Temp</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>PROJECTION TO BIT:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource />
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>MD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_MD</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>INC:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_Inc</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>AZM:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_Azm</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>TVD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_TVD</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>VS:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_VS</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>DEVIATION FROM PLAN LINE:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource />
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>Above/Below:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_A/B_Plan</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>Left/Right:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_R/L_Plan</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>Above/Below Target Center:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_A/B_Target_Line</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>ROP Sliding:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>ROP_Sliding</DataSource>
+    <Unit>' ft/hr</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX DH Lateral</Name>
+    <LineHeader>ROP Rotating:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>ROP_Rotating</DataSource>
+    <Unit>' ft/hr</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>2</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Rig</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Plan_Number</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>CURRENT SURVEY</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>18</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>true</LineHeaderItalic>
+    <Spacing>6</Spacing>
+    <DataSource />
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>Survey MD</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_MD</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-10573324</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>TVD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_TVD</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>INC:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_Inc</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>AZM:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_Azm</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>N/S:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_North</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>E/W:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_East</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>VS:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_VS</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>A/B::</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_A/B_Plan</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>L/R:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>true</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_R/L_Plan</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>DLS:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_DLS</DataSource>
+    <Unit>°/100'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>Slide Seen</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Slide_Seen</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>Slide/Rotate Footage</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Slide_Rotate_Footage</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>Motor Yield</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Motor_Yield</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>DLS Needed LP / 10' Low / 20' Low</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>DLS_Needed</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>MWD GR:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Gamma</DataSource>
+    <Unit> AAPI</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>MWD Temp:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Survey_Temp</DataSource>
+    <Unit>° F</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>Tool Face Mode:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Tool_Face_Mode</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>Tool Face:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Slide_Tool_Face</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>ROP Avg:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>ROP_Rotating</DataSource>
+    <Unit> ft/hr</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>Differential Pressure:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Differential_Pressure</DataSource>
+    <Unit> psi</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>Flow Rate:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Flow_Rate</DataSource>
+    <Unit> gpm</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>Bit RPM:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>true</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_RPM</DataSource>
+    <Unit> rpm</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>Top Drive RPM:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Surface_RPM</DataSource>
+    <Unit> rpm</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>Projection to Bit:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>18</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource />
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>MD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_MD</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-10573324</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>INC:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_Inc</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>AZM:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_Azm</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>A/B:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_A/B_Plan</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>L/R:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Bit_R/L_Plan</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader> Projection:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>18</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Beyond_Bit_Header</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>MD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Beyond_Bit_MD</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-10573324</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>TVD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Beyond_Bit_TVD</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>INC:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Beyond_Bit_Inc</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>AZM:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Beyond_Bit_Azm</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>A/B:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Beyond_Bit_A/B_Plan</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Template</Name>
+    <LineHeader>L/R:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>14</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>Static Indent</Spacing>
+    <DataSource>Beyond_Bit_R/L_Plan</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>14</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>38</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>BPX / Bronto GU 3H</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Rig</DataSource>
+    <Unit />
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>Plan Design #</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Plan_Number</DataSource>
+    <Unit />
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>CURRENT SURVEY</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>16</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>true</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource />
+    <Unit />
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>16</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>true</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>Survey MD:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_MD</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-10573324</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>TVD:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_TVD</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>INC:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_Inc</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>AZM:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_Azm</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>N/S:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_North</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>E/W:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_East</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>VS:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_VS</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>DLS:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_DLS</DataSource>
+    <Unit>°/100'</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>MWD GR:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Gamma</DataSource>
+    <Unit> AAPI</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>MWD Temp:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_Temp</DataSource>
+    <Unit>° F</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>Tool Face Mode:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Tool_Face_Mode</DataSource>
+    <Unit xml:space="preserve"> </Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>ROP Avg:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>ROP_Rotating</DataSource>
+    <Unit> ft/hr</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>Differential Pressure:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Differential_Pressure</DataSource>
+    <Unit> psi</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>Flow Rate:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Flow_Rate</DataSource>
+    <Unit> gpm</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>Bit RPM:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Bit_RPM</DataSource>
+    <Unit> rpm</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>Top Drive RPM:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Surface_RPM</DataSource>
+    <Unit> rpm</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>Projection to Bit</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>16</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>true</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource />
+    <Unit />
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>16</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>true</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>MD:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Bit_MD</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-10573324</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>INC:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Bit_Inc</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>AZM:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Bit_Azm</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>A/B from Well Plan:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Bit_A/B_Plan</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>L/R from Well Plan:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Bit_R/L_Plan</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>A/B from Geoline:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Bit_A/B_Target_Line</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>' Projection</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>16</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>true</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Beyond_Bit_Header</DataSource>
+    <Unit />
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>16</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>true</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>MD:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Beyond_Bit_MD</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-10573324</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>INC:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Beyond_Bit_Inc</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>AZM:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Beyond_Bit_Azm</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>A/B from Well Plan:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Beyond_Bit_A/B_Plan</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>L/R from Well Plan:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Beyond_Bit_R/L_Plan</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>BPX Lateral</Name>
+    <LineHeader>A/B from Geoline:</LineHeader>
+    <LineHeaderFontName>Calibri</LineHeaderFontName>
+    <LineHeaderFontSize>11</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Beyond_Bit_A/B_Target_Line</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Calibri</DataSourceFontName>
+    <DataSourceFontSize>11</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader />
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Rig</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader />
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Plan_Number</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>CURRENT SURVEY</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>16</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>true</LineHeaderItalic>
+    <Spacing>6</Spacing>
+    <DataSource />
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>Survey MD</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_MD</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-10573324</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>TVD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_TVD</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>INC:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_Inc</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>AZM:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_Azm</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>N/S:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_North</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>E/W:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_East</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>VS:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_VS</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>A/B::</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_A/B_Plan</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>L/R:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>true</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_R/L_Plan</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>DLS:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_DLS</DataSource>
+    <Unit>°/100'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>Slide Seen</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Slide_Seen</DataSource>
+    <Unit>'</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>Slide/Rotate Footage</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Slide_Rotate_Footage</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>Motor Yield</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Motor_Yield</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>DLS Needed LP / 10' Low / 20' Low</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>DLS_Needed</DataSource>
+    <Unit>°</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>MWD GR:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Gamma</DataSource>
+    <Unit> AAPI</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>MWD Temp:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Survey_Temp</DataSource>
+    <Unit>° F</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>Tool Face Mode:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Tool_Face_Mode</DataSource>
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>Tool Face:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Slide_Tool_Face</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>ROP Avg:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>true</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>ROP_Rotating</DataSource>
+    <Unit> ft/hr</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>Differential Pressure:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Differential_Pressure</DataSource>
+    <Unit> psi</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>Flow Rate:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Flow_Rate</DataSource>
+    <Unit> gpm</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>Bit RPM:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>true</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Bit_RPM</DataSource>
+    <Unit> rpm</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>Top Drive RPM:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Surface_RPM</DataSource>
+    <Unit> rpm</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>Projection to Bit:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>16</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource />
+    <Unit />
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-1</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>MD:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>true</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Bit_MD</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>true</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-10573324</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>INC:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Bit_Inc</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>AZM:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Bit_Azm</DataSource>
+    <Unit> °</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>A/B:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Bit_A/B_Plan</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>0</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+  <BodyTemplate>
+    <Name>Jacobs Curve Template</Name>
+    <LineHeader>L/R:</LineHeader>
+    <LineHeaderFontName>Courier New</LineHeaderFontName>
+    <LineHeaderFontSize>12</LineHeaderFontSize>
+    <LineHeaderFontColor>-16777216</LineHeaderFontColor>
+    <LineHeaderUnderlined>false</LineHeaderUnderlined>
+    <LineHeaderBold>false</LineHeaderBold>
+    <LineHeaderItalic>false</LineHeaderItalic>
+    <Spacing>0</Spacing>
+    <DataSource>Bit_R/L_Plan</DataSource>
+    <Unit> ft</Unit>
+    <DataSourceFontName>Courier New</DataSourceFontName>
+    <DataSourceFontSize>12</DataSourceFontSize>
+    <DataSourceFontColor>-16777216</DataSourceFontColor>
+    <DataSourceUnderlined>false</DataSourceUnderlined>
+    <DataSourceBold>false</DataSourceBold>
+    <DataSourceItalic>false</DataSourceItalic>
+    <BlankLines>1</BlankLines>
+    <StaticIndent>0</StaticIndent>
+    <TableRowBackColor>-3875077</TableRowBackColor>
+  </BodyTemplate>
+</Templates>
